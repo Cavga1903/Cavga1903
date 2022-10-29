@@ -1,6 +1,6 @@
 💫 About Me:
 
-## I'm a Student and Entry Level FullstackDeveloper
+## I'm a Student and Entry Level Fullstack Developer
 
 - 🔭 I’m currently working on my Skills.
 - 🌱 I’m currently learning more about Fullstack Web development.
