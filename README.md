@@ -11,6 +11,7 @@
 
 ### Connect with me:
 
+![](/img/patika-logo.png)
 [![website](./img/patika-logo.png)](https://app.patika.dev/tcavgaa#gh-dark-mode-only)
 [![website](./img/patika-logo.png)](https://app.patika.dev/tcavgaa#gh-light-mode-only)
 &nbsp;&nbsp;
