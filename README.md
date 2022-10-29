@@ -1,7 +1,7 @@
 💫 About Me:
 
 🔭 I’m currently working on my Skills.
-🌱 I’m currently learning more about Fullstack Web development
+🌱 I’m currently learning more about Fullstack Web development.
 💬 Ask me about any tech-related stuff.
 📫 How to reach me: Email - cavga228@gmail.com
 ⚡ Fun fact: Spaces are better than tabs
