@@ -3,7 +3,7 @@
 ## I'm a Student and Entry Level Fullstack Developer
 
 - 🔭 I’m currently working on my Skills.
-- 🌱 I’m currently learning more about Fullstack Web development.
+- 🌱 I’m currently learning more about **Fullstack Web development.**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to ride motorbikes
