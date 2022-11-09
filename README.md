@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to ride motorbikes
-- 📫 How to reach me: Email - cavga228@gmail.com
+- 📫 How to reach me: Email - cavgaa228@gmail.com
 
 ### Connect with me:
 
