@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Skills.
 - 🌱 I’m currently learning more about **Fullstack Web development.**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Make an own website.
 - ⚡ Fun fact: I love to ride motorbikes
 - 📫 How to reach me: Email - cavgaa228@gmail.com
 
