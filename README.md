@@ -2,7 +2,7 @@
 
 ## I'm a Student and Entry Level Fullstack Developer
 
-I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development.<br>👯 I’m looking to collaborate with other content creators<br>🥅 2023 Goals: Make an own website.<br>⚡ Fun fact: I love to ride motorbikes<br>📫 How to reach me: Email - cavgaa228@gmail.com
+I’m currently working on my Skills.<br>🌱 I’m currently learning more about Frontend development.<br>👯 I’m looking to collaborate with other content creators<br>🥅 2024 Goals: Make an own website.<br>⚡ Fun fact: I love to ride motorbikes<br>📫 How to reach me: Email - cavgaa228@gmail.com
 
 
 ## 🌐 Socials:
