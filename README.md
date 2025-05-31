@@ -73,9 +73,3 @@ A simple note tracking system for students — HTML, CSS, JS.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 🔢 Profile Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=Cavga1903&icon=2&color=3)](https://visitcount.itsvg.in)
-
----
