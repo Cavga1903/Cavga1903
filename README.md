@@ -18,6 +18,15 @@ I love creating clean, efficient code and seeing ideas turn into real-world solu
   - [ ] Master backend development with Node.js & Express
   - [ ] Build and deploy a production-ready SaaS application
   - [ ] Learn cloud services (AWS/Azure) and DevOps basics
+- 🎯 **2026 Q1 Goals (Jan - Mar):**
+  - [ ] Complete 2 open-source contributions to popular React/React Native projects
+  - [ ] Build and deploy a fullstack e-commerce app with payment integration
+  - [ ] Master REST API development and implement JWT authentication
+  - [ ] Learn Docker basics and containerize at least 2 projects
+  - [ ] Start a technical blog and publish 5 articles about my learning journey
+  - [ ] Achieve AWS Cloud Practitioner certification (or Azure equivalent)
+  - [ ] Secure a Junior Developer position or paid internship
+  - [ ] Create a mobile app with 100+ real users
 - 🏍️ **Fun fact:** Motorbikes are my escape after a day of coding!
 - 📫 **Reach me:** cavgaa228@gmail.com
 
