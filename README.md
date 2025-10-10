@@ -11,9 +11,13 @@ I love creating clean, efficient code and seeing ideas turn into real-world solu
 - 🌱 **Currently learning:** React, React Native, Node.js, TypeScript  
 - 🤝 **Open to:** Junior/Intern developer roles, open-source collaboration, real-world projects  
 - 🚀 **2025 Goals:**
-  - [ ] Launch my personal portfolio website
-  - [ ] Create 5+ fullstack/mobile projects
+  - [x] ~~Launch my personal portfolio website~~ ✅
+  - [x] ~~Create 5+ fullstack/mobile projects~~ ✅
   - [ ] Land my first software development job or internship
+  - [ ] Contribute to 3+ open-source projects
+  - [ ] Master backend development with Node.js & Express
+  - [ ] Build and deploy a production-ready SaaS application
+  - [ ] Learn cloud services (AWS/Azure) and DevOps basics
 - 🏍️ **Fun fact:** Motorbikes are my escape after a day of coding!
 - 📫 **Reach me:** cavgaa228@gmail.com
 
@@ -43,6 +47,10 @@ I love creating clean, efficient code and seeing ideas turn into real-world solu
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+My professional portfolio showcasing my projects and skills — Built with React & TypeScript.  
+🔗 [View Live](https://www.tolgacavga.com/) | [View Repository](https://github.com/Cavga1903/portfolio-app3)
 
 ### 🧠 Task Manager App
 A modern mobile app for task management, built with React Native and TypeScript.  
