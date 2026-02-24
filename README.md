@@ -101,15 +101,15 @@ Developed a lightweight note-tracking system to master core DOM manipulation and
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cavga1903&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cavga1903&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavga1903&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Cavga1903&theme=matrix&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
@@ -118,4 +118,3 @@ Developed a lightweight note-tracking system to master core DOM manipulation and
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
-
