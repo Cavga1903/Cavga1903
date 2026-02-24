@@ -99,23 +99,16 @@ Developed a lightweight note-tracking system to master core DOM manipulation and
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cavga1903&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cavga1903&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cavga1903&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cavga1903&theme=dark&hide_border=false" alt="GitHub Streak" height="170" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavga1903&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cavga1903&theme=matrix&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavga1903&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cavga1903&theme=matrix&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies" height="170" />
 </div>
 
 ---
