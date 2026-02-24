@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/hero-banner.png" alt="Hero Banner" width="100%" />
+</p>
+
 # 💫 About Me
 
 ## 👨‍💻 Fullstack & Mobile Developer | React Native Enthusiast
@@ -5,6 +9,16 @@
 Hi! I'm **Tolga** — a passionate software developer dedicated to building modern, scalable, and user-centric applications.  
 Currently focused on **Fullstack Development** and crafting seamless mobile experiences with **React Native** and **TypeScript**.  
 I love writing clean, efficient code and transforming innovative ideas into real-world solutions.
+
+---
+
+### 🗣️ Languages Spoken
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Turkish-Native-E30A17?style=flat-square&logo=google-translate&logoColor=white" alt="Turkish" />
+  <img src="https://img.shields.io/badge/English-Professional-00529B?style=flat-square&logo=google-translate&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/German-Learning-FFCE00?style=flat-square&logo=google-translate&logoColor=black" alt="German" />
+</p>
 
 ---
 
