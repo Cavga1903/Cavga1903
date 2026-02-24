@@ -26,9 +26,11 @@ I love writing clean, efficient code and transforming innovative ideas into real
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tolgaacavgaa/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/codewithcavga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.tolgacavga.com/)
+<div align="center">
+  <a href="https://linkedin.com/in/tolgaacavgaa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/codewithcavga"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.cavga.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 ---
 
@@ -57,20 +59,43 @@ I love writing clean, efficient code and transforming innovative ideas into real
 
 ---
 
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="200" align="center">
+        <img src="img/patika-logo.png" width="120" alt="Patika.dev Logo" />
+      </td>
+      <td align="left">
+        <strong>Patika.dev</strong><br/>
+        • Frontend Web Development Path<br/>
+        • React Native & Mobile Development Specialization<br/>
+        • Advanced JavaScript & Node.js Training
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌐 [Personal Portfolio Website](https://github.com/Cavga1903/portfolio-app3)
 
-My professional portfolio showcasing my projects, skills, and journey — Built with React & TypeScript.  
-🔗 [View Live](https://www.tolgacavga.com/)
+A high-performance professional portfolio showcasing my technical journey.  
+**Tech:** React, TypeScript, Framer Motion.  
+🔗 [View Live](https://www.cavga.dev/)
 
 ### 🧠 [Task Manager App](https://github.com/Cavga1903/todo-app-ins)
 
-A modern, intuitive mobile app for task management, built with React Native and TypeScript.
+Built a modern task management solution focusing on smooth UX and state management.  
+**Tech:** React Native, TypeScript, Context API.
 
-### � [Basit Not Takip Sistemi](https://github.com/Cavga1903/basitNotTakipSistemi)
+### 📘 [Basit Not Takip Sistemi](https://github.com/Cavga1903/basitNotTakipSistemi)
 
-A simple note tracking system designed for students — HTML, CSS, JS.
+Developed a lightweight note-tracking system to master core DOM manipulation and responsive design.  
+**Tech:** HTML5, CSS3, JavaScript.
 
 ---
 
