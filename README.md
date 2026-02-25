@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/hero-banner.png" alt="Hero Banner" width="100%" height="500" />
+  <img src="img/hero-banner.png" alt="Hero Banner" width="100%" height="50" />
 </p>
 
 # 💫 About Me
